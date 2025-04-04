@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+
+
+input {
+    margin: 10px 5px 10px 5px;
+}
+
+button {
+    margin-right: 5px;
+}
+
+
+select {
+    margin: 10px 5px 10px 0;
+}
