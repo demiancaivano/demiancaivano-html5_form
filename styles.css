@@ -3,6 +3,9 @@ body {
     margin: 0;
 }
 
+.card {
+    margin-right: 20px;
+}
 
 input {
     margin: 10px 5px 10px 5px;
@@ -17,3 +20,11 @@ button {
 select {
     margin: 10px 5px 10px 0;
 }
+
+.esconderCartel {
+    display: none;
+}
+
+.mostrarCartel {
+    display: block;
+  }
