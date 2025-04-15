@@ -20,11 +20,3 @@ button {
 select {
     margin: 10px 5px 10px 0;
 }
-
-.esconderCartel {
-    display: none;
-}
-
-.mostrarCartel {
-    display: block;
-  }
